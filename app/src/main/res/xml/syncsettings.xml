@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreference
+        android:name="Toggle Options"
+        android:key="use_sync"
+        android:summary="This is an example toggle setting" />
+</PreferenceScreen>
